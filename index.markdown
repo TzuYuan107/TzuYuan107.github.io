@@ -8,7 +8,7 @@ header:
 
 
 <!-- # About Me -->
-I am currently a PhD student in the [ITR Lab](https://www.ce.cit.tum.de/itr/startseite/) at [TUM](https://www.tum.de/en/), supervised by [Prof. Sandra Hirche](https://www.ce.cit.tum.de/en/itr/home), and a member of [RelAI](https://zuseschoolrelai.de/). My research focuses on the intersection of generative models and control theory for robotic systems.
+I am currently a PhD student in the [ITR Lab](https://www.ce.cit.tum.de/itr/startseite/) at [TUM](https://www.tum.de/en/), supervised by [Prof. Sandra Hirche](https://www.ce.cit.tum.de/en/itr/home), and a member of [RelAI](https://zuseschoolrelai.de/). My research focuses on the safe planning of generative model for robot systems.
 Previously, I worked as an R&D engineer at [Syntec Technology](https://www.syntecclub.com/), developing trajectory planning algorithms.
 
 # News
@@ -26,9 +26,9 @@ Previously, I worked as an R&D engineer at [Syntec Technology](https://www.synte
 # Publications
 - **SAD-Flower: Flow Matching for Safe, Admissible, and Dynamically Consistent Planning**
   <br>
-  **Tzu-Yuan Huang**, Armin Lederer, Dai-Jie Wu, Xiaobing Dai, Sihua Zhang, Stefan Sosnowski, Shao-Hua Sun, Sandra Hirche
+  **Tzu-Yuan Huang**, Armin Lederer, Dai-Jie Wu, Xiaobing Dai, Sihua Zhang, Hsiu-Chin Lin, Shao-Hua Sun, Stefan Sosnowski, Sandra Hirche
   <br>
-  *ICLR, 2026 (under review).*
+  *ICML, 2026 (accepted).*
   <br>
   [[Paper](https://arxiv.org/pdf/2511.05355)]
 
