@@ -28,7 +28,7 @@ Previously, I worked as an R&D engineer at [Syntec Technology](https://www.synte
   <br>
   **Tzu-Yuan Huang**, Armin Lederer, Dai-Jie Wu, Xiaobing Dai, Sihua Zhang, Hsiu-Chin Lin, Shao-Hua Sun, Stefan Sosnowski, Sandra Hirche
   <br>
-  *ICML, 2026 (accepted).*
+  *International Conference on machine Learning (ICML), 2026.*
   <br>
   [[Paper](https://arxiv.org/pdf/2511.05355)]
 
